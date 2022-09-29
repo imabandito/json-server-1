@@ -4,55 +4,64 @@
       "id": 1,
       "title": "Balsam",
       "price": "299",
-      "img": "../images/trending/1.png"
+      "img": "../images/products/1.png",
+      "sale": true
     },
     {
       "id": 2,
       "title": "Ashford",
       "price": "315",
-      "img": "../images/trending/2.png"
+      "img": "../images/products/2.png",
+      "sale": true
     },
     {
       "id": 3,
       "title": "Manhattan Plank",
       "price": "425",
-      "img": "../images/trending/3.png"
+      "img": "../images/products/3.png",
+      "sale": false
     },
     {
       "id": 4,
       "title": "Trevista 80 Textured",
       "price": "453",
-      "img": "../images/trending/4.png"
+      "img": "../images/products/4.png",
+      "sale": false
     },
     {
       "id": 5,
       "title": "Adelaide 80",
       "price": "542",
-      "img": "../images/trending/5.png"
+      "img": "../images/products/5.png",
+      "sale": false
     },
     {
       "id": 6,
       "title": "Richmond 80",
       "price": "345",
-      "img": "../images/trending/6.png"
+      "img": "../images/products/6.png",
+      "sale": true
     },
     {
       "id": 7,
       "title": "Ardesia",
       "price": "322",
-      "img": "../images/trending/7.png"
+      "img": "../images/trending/7.png",
+      "sale": true
     },
     {
       "id": 8,
       "title": "Strada Nova",
       "price": "390",
-      "img": "../images/trending/4.png"
+      "img": "../images/products/4.png",
+      "sale": true
     },
     {
       "id": 9,
       "title": "Moderna",
       "price": "415",
-      "img": "../images/trending/8.png"
+      "img": "../images/products/8.png",
+      "sale": false
     }
   ]
 }
